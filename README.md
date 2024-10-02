@@ -7,14 +7,14 @@
 - In terms of deployment, I use Linux, Docker, and Nginx.
 
 
-#### Backend
+### Backend
 <div style='display: flex;'>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" width=50>
 <img src="https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/postgres_database_server_relational_dbms_sql-512.png" width=50>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redis-512.png" width=50>
 </div>
 
-#### Frontend
+### Frontend
 <div style='display: flex;'>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width=50>
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-1024.png" width=50>
@@ -22,7 +22,7 @@
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width=50>
 </div>
 
-#### Deploy
+### Deploy
 <div style='display: flex;'>
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-512.png" width=50>
   <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/OS_Ubuntu.png" width=50>
