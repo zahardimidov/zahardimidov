@@ -33,51 +33,53 @@
 ### Backend
 
 <div class="row">
-<a href="https://www.docker.com/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"  /></a>
-<a href="https://www.python.org/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"  /></a>
-<a href="https://www.python.org/" target="_blank"><img height="50" style="margin: 10px;" src="https://www.cdnlogo.com/logos/f/49/fastapi.svg"
+<a href="https://www.docker.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"  /></a>
+<a href="https://www.python.org/" target="_blank"><img height="50" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"  /></a>
+<a href="https://www.python.org/" target="_blank"><img height="50" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"
 alt="FastAPI"  /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask"  /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django"  /></a>
-<a href="https://docs.aiogram.dev/en/v3.18.0/" target="_blank"><img height="50" style="margin: 10px;" src="https://avatars.githubusercontent.com/u/33784865?v=4&s=160" alt="Aiogram"  /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL"  /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"  /></a>
-<a href="https://redis.io/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis"  /></a>
-<a href="https://grafana.com/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana"  /></a>
-<a href="#" target="_blank"><img height="50" style="margin: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3od7KkWU3PIsZWB6d91KglpZgslLGgIkuWA&s" alt="S3"  /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"  /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"  /></a>
+<a href="https://docs.aiogram.dev/en/v3.18.0/" target="_blank"><img height="50" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=aiogram&logoColor=white" alt="Aiogram"  /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"  /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"  /></a>
+<a href="https://redis.io/" target="_blank"><img height="50" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"  /></a>
+<a href="https://grafana.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"  /></a>
+<a href="#" target="_blank"><img height="50" src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"  /></a>
 
 </div>
 
 ### Frontend
 
 <div class="row">  
-<a href="https://www.docker.com/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"  /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img height="50" style="margin: 10px;" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="HTML5"  /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img height="50" style="margin: 10px;" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-1024.png" alt="CSS3"  /></a>
-<a href="https://www.javascript.com/" target="_blank"><img height="50" style="margin: 10px;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-1024.png" alt="JavaScript"  /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"  /></a>
-<a href="https://reactjs.org/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React"  /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"/></a>
-<a href="https://jquery.com/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery"  /></a>
+<a href="https://www.docker.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"  /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img height="50" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"  /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img height="50" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"  /></a>
+<a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"  /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"  /></a>
+<a href="https://reactjs.org/" target="_blank"><img height="50" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"  /></a>
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img height="50" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
+<a href="https://jquery.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"  /></a>
 </div>
 
 ### Deploy
 
 <div class="row">  
-<a href="https://www.docker.com/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"  /></a>  
-<a href="https://www.linux.org/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"  /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash"  /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx"  /></a>  
-<a href="https://github.com/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"  /></a> 
+<a href="https://www.docker.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"  /></a>  
+<a href="https://www.linux.org/" target="_blank"><img height="50" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" alt="Linux"  /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img height="50" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"  /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"  /></a>  
+<a href="https://github.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GithubActions"  /></a> 
+<a href="https://github.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitlabCI"  /></a> 
 </div>
 
 ### Extra
 
 <div class="row">  
-<a href="https://ton.org/en" target="_blank"><img height="50" style="margin: 10px;" src="https://cryptologos.cc/logos/toncoin-ton-logo.png" alt="TON"  /></a>
-<a href="#" target="_blank"><img height="50" style="margin: 10px;" src="https://docs.ton.org/img/docs/telegram-apps/tapps.png" alt="TelegramMiniApp"  /></a>
-<a href="https://unity.com/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity"  /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img height="50" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow"  /></a>
+<a href="https://github.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"  /></a> 
+<a href="https://ton.org/en" target="_blank"><img height="50" src="https://cryptologos.cc/logos/toncoin-ton-logo.png" alt="TON"  /></a>
+<a href="#" target="_blank"><img height="50" src="https://docs.ton.org/img/docs/telegram-apps/tapps.png" alt="TelegramMiniApp"  /></a>
+<a href="https://unity.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"  /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"  /></a>
 </div>
 
 <br><br>
