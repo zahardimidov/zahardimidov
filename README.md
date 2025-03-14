@@ -39,7 +39,7 @@
 alt="FastAPI"  /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"  /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"  /></a>
-<a href="https://docs.aiogram.dev/en/v3.18.0/" target="_blank"><img height="50" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=aiogram&logoColor=white" alt="Aiogram"  /></a>
+<a href="https://docs.aiogram.dev/en/v3.18.0/" target="_blank"><img height="50" src="https://img.shields.io/badge/aiogram-3670A0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"  /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"  /></a>
 <a href="https://redis.io/" target="_blank"><img height="50" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"  /></a>
@@ -76,7 +76,7 @@ alt="FastAPI"  /></a>
 
 <div class="row">  
 <a href="https://github.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"  /></a> 
-<a href="https://ton.org/en" target="_blank"><img height="50" src="https://cryptologos.cc/logos/toncoin-ton-logo.png" alt="TON"  /></a>
+<a href="https://ton.org/en" target="_blank"><img height="50" src="https://img.shields.io/badge/TON-2CA5E0?style=for-the-badge&logo=ton&logoColor=white" alt="TON"  /></a>
 <a href="#" target="_blank"><img height="50" src="https://docs.ton.org/img/docs/telegram-apps/tapps.png" alt="TelegramMiniApp"  /></a>
 <a href="https://unity.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"  /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"  /></a>
