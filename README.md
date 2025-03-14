@@ -35,7 +35,30 @@
 ## Languages and Tools  
 
 
-### Backend  
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+.row {
+    height: 80px;
+    display: flex;
+    column-gap: 30px;
+}
+img {
+    display: block;
+    height: 100%;
+    width: auto;
+    margin: 10px;
+}
+.badges {
+    display: flex;
+    column-gap: 5px;
+    height: 30px;
+}
+</head>
+<body>
+
+<h1>Backend</h1>
 <div class="row">
 <a href="https://www.docker.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"  /></a>  
 
@@ -62,7 +85,7 @@ alt="FastAPI"  /></a>
 
 </div>  
 
-### Frontend  
+<h1>Frontend</h1>
 <div class="row">  
 <a href="https://www.docker.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"  /></a>    
 
@@ -83,7 +106,7 @@ alt="FastAPI"  /></a>
 </div>  
 
 
-### Deploy  
+<h1>Deploy</h1>
 <div class="row">  
 <a href="https://www.docker.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"  /></a>  
 <a href="https://www.linux.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"  /></a>  
@@ -92,7 +115,7 @@ alt="FastAPI"  /></a>
 <a href="https://github.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"  /></a> 
 </div>  
 
-### Extra  
+<h1>Extra</h1>
 <div class="row">  
 <a href="https://ton.org/en" target="_blank"><img  src="https://cryptologos.cc/logos/toncoin-ton-logo.png" alt="TON"  /></a> 
 
@@ -104,6 +127,9 @@ alt="FastAPI"  /></a>
 
 </div>  
 
+</body>
+</html>
+
 <br><br>
 
 ## Github Stats  
@@ -111,22 +137,4 @@ alt="FastAPI"  /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahardimidov&hide_border=true&layout=compact" style="height: 100%"/>
 </div>
 <br/>  
-
-<style>
-.row {
-    height: 80px;
-    display: flex;
-    column-gap: 30px;
-}
-img {
-    display: block;
-    height: 100%;
-    width: auto;
-    margin: 10px;
-}
-.badges {
-    display: flex;
-    column-gap: 5px;
-    height: 30px;
-}
 </style>
