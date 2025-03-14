@@ -76,10 +76,10 @@ alt="FastAPI"  /></a>
 
 <div class="row">  
 <a href="https://github.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"  /></a> 
-<a href="https://ton.org/en" target="_blank"><img height="50" src="https://img.shields.io/badge/TON-2CA5E0?style=for-the-badge&logo=ton&logoColor=white" alt="TON"  /></a>
-<a href="#" target="_blank"><img height="50" src="https://docs.ton.org/img/docs/telegram-apps/tapps.png" alt="TelegramMiniApp"  /></a>
 <a href="https://unity.com/" target="_blank"><img height="50" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"  /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"  /></a>
+<a href="https://ton.org/en" target="_blank"><img height="50" src="https://img.shields.io/badge/TON-2CA5E0?style=for-the-badge&logo=ton&logoColor=white" alt="TON"  /></a>
+<a href="#" target="_blank"><img height="50" src="https://docs.ton.org/img/docs/telegram-apps/tapps.png" alt="TelegramMiniApp"  /></a>
 </div>
 
 <br><br>
