@@ -8,6 +8,10 @@
 <a href="https://t.me/ZaharDimidov" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=Telegram />
 </a>
+
+<a href="https://vk.com/zdimidov77" target="_blank">
+<img src="https://img.shields.io/badge/VKontakte-3670A0?style=for-the-badge&logo=vk&logoColor=white" alt=VK />
+</a>
 </div>
 
 <br/>
