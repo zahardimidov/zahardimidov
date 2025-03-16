@@ -1,7 +1,7 @@
 ## Hello everyone 👋
 
 <div class="badges" style="display: flex; width: 100%; height: 35px; column-gap: 5px;">
-<a href="https://github.com/zahardimidov" target="_blank">
+<a href="https://github.com/zahardimidov?tab=repositories&q=&type=public&language=&sort=name" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github/>
 </a>
 
