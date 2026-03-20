@@ -22,7 +22,7 @@
 
 - 🌏 I am a resident of Russia.
 
-- 🎧 18 years old.
+- 🎧 19 years old.
 
 - 💻 I have been programming since 2019 and have developed skills in various areas.
 
