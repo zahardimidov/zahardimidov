@@ -82,8 +82,6 @@ alt="FastAPI"  /></a>
 <br><br>
 
 ## Github Stats
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahardimidov&exclude=jupyter%20notebook)
-
 <div style="display: flex; justify-content: center; height: 350px; padding: 50px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahardimidov&hide_border=true&layout=compact" style="height: 100%"/>
 </div>
